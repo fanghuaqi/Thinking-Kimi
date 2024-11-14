@@ -6,6 +6,10 @@
 
 替换完毕后，开始参考**最简单的计算器**实施起来。
 
+Kimi聊天记录参见  https://kimi.moonshot.cn/share/csqun1g17fmdsu3g9r80
+
+部署以后的项目参见 https://github.com/fanghuaqi/ios-style-calculator
+
 
 先把这个[**Kimi Protocol**](kimi_instructions.md)丢给Kimi，Kimi如下响应：
 

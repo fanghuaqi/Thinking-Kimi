@@ -1,5 +1,7 @@
 # Thinking Claude
 
+> I have done a Think Kimi, see [think_kimi.md](think_kimi.md)
+
 Let Claude think comprehensively before responding!
 
 ## Overview
